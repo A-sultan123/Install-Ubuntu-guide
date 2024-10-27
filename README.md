@@ -96,12 +96,12 @@ Bilgisayarınızı yeniden başlattıktan sonra kuruluma başlayacağız.
 #### 3.6 Bootloader Bölümü Oluşturma
 - **/boot** bölümü oluşturmak için, tür olarak **ext4** ve bağlama noktası olarak **/boot** seçin.
 
-   > **![Görüntü 9](https://github.com/user-attachments/assets/7a440923-8603-41a2-86cd-0eb7c94b6003)** (Boot bölümü oluşturma)
+   > **![Görüntü 9](https://github.com/user-attachments/assets/13189d8e-70e9-4523-a1bf-49826d058eee)** (Boot bölümü oluşturma)
 
 #### 3.7 Root Bölümü Oluşturma
 - **/ (kök)** bölümü için yeterli alan ayırın ve tür olarak **ext4** seçin.
 
-   > **![Görüntü 10](https://github.com/user-attachments/assets/cfcd2eb2-1262-49d0-a933-97d23af65f26)** (Root bölümü oluşturma)
+   > **![Görüntü 10](https://github.com/user-attachments/assets/66e9c73a-05a7-4de8-b14f-b1540f0de60b)** (Root bölümü oluşturma)
 
 #### 3.8 Home Bölümü Oluşturma
 - Kullanıcı dosyalarınız için **/home** bölümünü oluşturun.
